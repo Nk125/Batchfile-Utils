@@ -11,4 +11,4 @@ This repository is for store subroutines and programs like
 
 All contained here, enjoy!
 
-## You can copy all, no credits needed. (For my subroutines and batch files, all executables in "Third-Party" aren't of my work or authority)
+## You can copy all, no credits needed. (For my subroutines and batch files, all executables in "Third-Parties" aren't of my work or authority)

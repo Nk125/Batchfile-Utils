@@ -3,7 +3,7 @@
 :subroutine
 :: %1 = Time between points
 
-:: %2 = Loops to charge, example: 1 secs between points + 1 loop = 5 secs charging
+:: %2 = Loops to charge, example: 1 sec between points + 1 loop = 5 secs charging
 
 if "%1" EQU "" (
 set "secs=1"

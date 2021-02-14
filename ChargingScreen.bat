@@ -50,3 +50,5 @@ echo Please wait     .
 timeout /t %secs% /nobreak>nul
 
 if not %loop%==%loops% goto loop
+
+exit /b
